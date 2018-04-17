@@ -1,0 +1,11 @@
+body{
+  font-family: sans-serif;
+}
+
+.form__header {
+  display: flex;
+  margin-bottom: 20px;
+}
+.step__bullet {
+  margin-right: 20px;
+}
